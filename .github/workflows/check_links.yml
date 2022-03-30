@@ -1,0 +1,22 @@
+name: Check Links
+
+on: 
+  push:
+    branches:
+    - main
+  pull_request:
+  schedule:
+  # Run every week at 2:22 AM (Typically energy is greener early in the morning and on weekends, and 2:22 is not a 'round time' to reduce load)
+  - cron: "22 2 * * 0"
+
+jobs:
+  link_checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.4.1
+        with:
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

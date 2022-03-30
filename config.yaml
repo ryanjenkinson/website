@@ -1,0 +1,134 @@
+baseURL: "https://ryan.eco/"
+title: "🌱 ryan.eco 🌍"
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Ryan Jenkinson
+  description: "Ryan Jenkinson Personal Website"
+  keywords: [Blog, Portfolio]
+  author: Ryan Jenkinson
+  images: ["static/"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light, auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter"]
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showToc: true
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: /favicon/favicon.ico
+    favicon16x16: /favicon/favicon-16x16.png
+    favicon32x32: /favicon/favicon-32x32.png
+    apple_touch_icon: /favicon/apple_touch_icon.png
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "hi, i'm ryan 👋"
+    subtitle: >-
+      💻 i'm a technologist focused on climate change [@centrefornetzero](https://centrefornetzero.org) [@octopusenergy](https://octopus.energy) 🐙
+      🧠 **specialisms**: *data science*, *ml/ai*, *strategy*, *tech* and *energy sector electrification* ⚡
+    
+    imageUrl: "headshot.jpeg"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: Personal Headshot
+    # buttons:
+    #   - name: about
+    #     url: about
+    #   - name: blog posts
+    #     url: blog
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi, I'm Ryan 👋"
+    Content: "💻 I'm a technologist focused on climate change [@centrefornetzero](https://centrefornetzero.org) [@octopusenergy](https://octopus.energy) 🐙"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/ryancjenkinson"
+    - name: email
+      url: "mailto:hello@ryan.eco"
+    - name: github
+      url: "https://github.com/RyanJenkinson"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/RyanJenkinson"
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 5
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: blog
+      url: /blog/
+      weight: 20
+    - identifier: topics
+      name: topics
+      url: /topics/
+      weight: 25
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+#Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+      # anchorLineNos: true
+      codeFences: true
+      guessSyntax: true
+      lineNos: true
+      style: monokai

@@ -1,0 +1,54 @@
+name: Build and Deploy Hugo Site
+
+on: 
+  push:
+    branches:
+    - main
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  build:
+    name: Build static artifacts using Hugo
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 50
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.96.0'
+      - name: Build
+        run: hugo --gc --minify
+      - name: Upload public directory # Upload /public artifact if on `main` branch
+        uses: actions/upload-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          name: public
+          path: public/
+          retention-days: 1
+
+  deploy:
+    name: Deploy to Netlify
+    needs: build
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Download public directory
+        uses: actions/download-artifact@v3
+        with:
+          name: public
+          path: public/
+      - name: Publish
+        uses: nwtgck/actions-netlify@v1.2
+        with:
+          publish-dir: './public'
+          production-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deploy from GitHub Actions"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1
