@@ -4,9 +4,6 @@ on:
   push:
     branches:
     - main
-  pull_request:
-    branches:
-    - main
 
 jobs:
   build:
@@ -23,13 +20,11 @@ jobs:
           hugo-version: '0.96.0'
       - name: Build
         run: hugo --gc --minify
-      - name: Upload public directory # Upload /public artifact if on `main` branch
+      - name: Upload public directory
         uses: actions/upload-artifact@v3
-        if: github.ref == 'refs/heads/main'
         with:
           name: public
           path: public/
-          retention-days: 1
 
   deploy:
     name: Deploy to Netlify
