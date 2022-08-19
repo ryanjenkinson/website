@@ -54,9 +54,9 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "hi, i'm ryan 👋"
-    subtitle: >-
+    subtitle: >
       💻 i'm a technologist focused on climate change [@centrefornetzero](https://centrefornetzero.org) [@octopusenergy](https://octopus.energy) 🐙
-      🧠 **specialisms**: *data science*, *ml/ai*, *strategy*, *tech* and *energy sector electrification* ⚡
+      🎓 **specialisms**: *data science*, *ml/ai*, *data engineering*, *strategy*, *tech leadership* and *energy sector electrification* ⚡
     
     imageUrl: "headshot.jpeg"
     imageWidth: 240
