@@ -83,9 +83,9 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/RyanJenkinson"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-2WK7G0MQNN"
 
   cover:
     hidden: true # hide everywhere but not in structured data
