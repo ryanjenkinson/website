@@ -8,7 +8,13 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# # Leave commented out in favour of the extend_head partial which has specific opt-in
+# googleAnalytics: G-2WK7G0MQNN
+# privacy:
+#   anonymizeIP: true
+#   disable: false
+#   respectDoNotTrack: true
+#   useSessionStorage: false
 
 enableEmoji: true
 
