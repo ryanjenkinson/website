@@ -18,5 +18,9 @@ This is in line with GDPR law. You explicitly have to opt-in to cookies rather t
 
 To show you theres no funny business, the code that implements this cookie is open source (as is my whole website) [here](https://www.github.com/ryanjenkinson/website). Interrogate it for yourself, and raise Github Issues / discussion / email me if you want to discuss any of it with me!
 
-![Cookie Monster Image](/static/cookie_monster.jpeg)
-*Figure 1: You, right now (probably)*
+{{< rawhtml >}}
+<div>
+  <img src="/cookie_monster.jpeg" alt_text="Cookie Monster Meme" style="display:block;margin:auto;">
+  <p style="text-align:center;"> <em>Figure 1: You, right now (probably)</em> </p>
+</div>
+{{< /rawhtml >}}
