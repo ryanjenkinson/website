@@ -157,7 +157,7 @@ Software Development
 Notable Talks & Events
 --------------------
 * [Nov 2021] COP26 Fringe Event: agent based approaches for reducing emissions
-* [Oct 2022] DataFest Fringe Event: using open source data to support decarbonisation (in collaboration with NESTA)
+* [Oct 2022] [DataFest](https://datafest.global/datafest-fringe-2022/) Fringe Event: using open source data to support decarbonisation (in collaboration with NESTA)
 
 <!-- Achievements
 ------------ -->
