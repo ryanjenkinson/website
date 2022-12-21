@@ -8,7 +8,13 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# # Leave commented out in favour of the extend_head partial which has specific opt-in
+# googleAnalytics: G-2WK7G0MQNN
+# privacy:
+#   anonymizeIP: true
+#   disable: false
+#   respectDoNotTrack: true
+#   useSessionStorage: false
 
 enableEmoji: true
 
@@ -83,9 +89,9 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/RyanJenkinson"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-2WK7G0MQNN"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -112,6 +118,10 @@ menu:
       name: about
       url: /about/
       weight: 10
+    - identifier: cv
+      name: cv
+      url: /cv/
+      weight: 15
     - identifier: blog
       name: blog
       url: /blog/
