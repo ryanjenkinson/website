@@ -1,10 +1,11 @@
 Ryan Jenkinson CV
 =================
+_Note: I only work in technology, data science and software development roles in the climatetech space. Ideally in smaller teams where I can make a greater impact._
 
 ----
 
 > An experienced data professional capable of leading high performing, mission-driven teams across the tech value stack. 
-I have over 5 years of industry experience applying data science and engineering, AI & ML, technical leadership and strategy for organisations of all sizes. I am hands on, capable of taking things from zero-to-one, delivering major projects in a principled way and mentoring others. My focus is on tackling climate change. A continual learner who is highly articulate with the confidence and experience to communicate and influence effectively at all levels with an ability to craft data-driven narratives. Experienced at giving talks and contributing to discussions on climate and tech, e.g at COP26.
+I have over 5 years of industry experience applying data science and engineering, AI & ML, technical leadership and strategy for organisations of all sizes. I am hands on, capable of taking things from zero-to-one, delivering major projects in a principled way and mentoring others. My focus is on tackling climate change. A continual learner who is highly articulate with the confidence and experience to communicate and influence effectively at all levels. I build strong productionised software and craft data-driven narratives. Experienced at giving talks and contributing to discussions on climate and tech, e.g at COP26.
 
 ----
 
@@ -41,9 +42,9 @@ Leadership
 :   I am passionate about leading high-performing impact-driven teams in a hands-on way.
 
     * Building and supporting world-class organisations with strong cultures
-    * Driving transparent, inclusive, and comprehensive decision making
-    * Formulating wider strategies that maximise value with a focus on 6 and 12 month timelines
-    * Delivering high-impact products and analyses on tight timelines
+    * Driving transparent, inclusive and comprehensive decision making
+    * Formulating wider strategies that maximise value with a focus on 6 and 12 month horizons
+    * Delivering high-impact products and analyses in an incremental and continuous way
     * Mentoring small teams, upskilling technical knowledge
 
 <!-- TODO: Make a lot easier to read and digest -->
@@ -51,13 +52,15 @@ Leadership
 Relevant Experience
 ----------
 
-**Head of Strategy and Data Science**, [Octopus Energy](https://octopus.energy) [Centre for Net Zero](https://centrefornetzero.org)
+**Head of Technology and Data Science**, [Octopus Energy](https://octopus.energy) [Centre for Net Zero](https://centrefornetzero.org)
 {{< rawhtml >}}
 <br />
 {{< /rawhtml >}}
 *(June 2021 - Present)*
 
 A founding early hire to a new mission-driven autonomous research unit of Octopus Energy, with roles and responsibilities growing as the startup evolved:
+
+* Built a high-quality ELT modern data stack platform and automation workflows using `dbt`, GCP and infrastructure-as-code methodologies for a small data team, with 100GBs of data from a variety of public and private data sources.
 
 * Led and delivered multiple research projects increasing our understanding of how consumers could adopt and use low carbon technologies at scale in the future, managing research data scientists and analysts. High impact projects include:
     * Pioneering analysis into unlocking domestic flexibility ([Big Dirty Turn Down](https://octopus.energy/blog/the-big-dirty-reveal/), [Crowdflex](https://www.nationalgrideso.com/future-energy/virtual-energy-system/crowdflex))
@@ -74,9 +77,9 @@ A founding early hire to a new mission-driven autonomous research unit of Octopu
 {{< /rawhtml >}}
 *(March 2020 - June 2021)*
 
-I led a team of 2-6 people (inc. contractors) on worlds largest commercial EV trial (Optimise Prime), a £35m. Ofgem energy Innvoation project with partners Centrica, Uber, Royal Mail, UKPN & SSEN.
+I led a team of 6 people (inc. contractors) on worlds largest commercial EV trial (Optimise Prime), a £35m. Ofgem energy Innvoation project with partners Centrica, Uber, Royal Mail, UKPN & SSEN.
 * Led technical delivery of 3 workstreams, analysing billions of datapoints from over 6,000 vehicles to drive the transition from petrol/diesel to electric. Specifically:
-    * Built a powerful ML prediction model to recommend optimal chargepoint location in London for EV drivers, with quarterly updates to Uber and a talk delivered at Big Data LDN 2020. Resulted in the strategic placement of highly utilised on-shift chargepoints, greater driver confidence and Uber Green.
+    * Built a powerful ML prediction model to recommend optimal chargepoint location in London for EV drivers, with quarterly updates to Uber and a talk delivered at Big Data LDN 2020. Resulted in the strategic placement of highly utilised on-shift chargepoints, greater driver confidence in EVs and Uber Green.
     * Analysed behavioural patterns of different commercial fleets, recommending optimal practices and vehicles to deploy as they transition to electric.
     * Delivered over £2m/yr in operational savings for Royal Mail across 10 depots through provisioning of smart charging systems and forecasting models to respond to flexibility events, ensuring risk and cost minimsation.
 * Deployed cloud based web app (Azure, Django) for UKPN using modern web frameworks, REST APIs & software principles to reduce time for depot managers to purchase electric vehicles and secure grid connections with their DNO. This reduced potential network reinforcement and grid connection costs to the tune of £millions/year.
