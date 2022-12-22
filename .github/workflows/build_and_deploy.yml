@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Build static artifacts using Hugo
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
@@ -17,7 +17,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.107.0'
+          hugo-version: '0.108.0'
       - name: Build
         run: hugo --gc --minify
       - name: Upload public directory
@@ -29,7 +29,7 @@ jobs:
   deploy:
     name: Deploy to Netlify
     needs: build
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Download public directory
         uses: actions/download-artifact@v3
