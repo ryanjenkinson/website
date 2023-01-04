@@ -33,9 +33,9 @@ I believe we are standing at a precipice. An inflection point. Our current energ
 
 I believe "shock events" can define the turning points for change, and if COVID-19 [^covid19] and Putin's war [^putin_war] aren't the catalyst for energy infrastructural and technical revolution then I'm not sure what will be. We need to go through what the finance sector did post-recession.
 
-Luckily, we have all the "tools" we need in the form of ever-cheaper renewable generation. We just need a system that works with it symbiotically.
+Luckily, we have all the tools we need in the form of ever-cheaper renewable generation. We just need a system that works with it symbiotically.
 
-This is our "hello, world" moment.
+This is our `hello, world` moment.
 
 ## On the positivity of a low carbon future
 The past couple of years haven't been great. 2020 brought with it a global pandemic unlike anything seen before in at least a century. This destabilised daily life and demanded a pause for reflection. During this time, the only glimmer of hope was the growing concensus of using this as an opportunity to "build back better". Yet, in 2022, that thinking has not yet materialised.
@@ -43,7 +43,7 @@ The past couple of years haven't been great. 2020 brought with it a global pande
 ![This is fine image](images/this_is_fine.jpeg)
 *Figure 1: Me, circa 2020 - 2022.*
 
-In the next few blogs, I want to set out my current vision for an alternative energy system and why it can be a huge opportunity (powered by low-carbon fuels). This vision is likely to change, grow and crystallise over time. But we should propose a more optimistic future, and use human ingenuity to turn "bugs" into "features". "Challenges" into "opportunities". While learning from the transformation and evolution of other sectors.
+In the next few blogs, I want to set out my current vision for an alternative energy system and why it can be a huge opportunity (powered by low-carbon fuels). This vision is likely to change, grow and crystallise over time. But we should propose a more optimistic future, and use human ingenuity to reimagine our (broken) energy system. We should learn from the transformation and evolution of other sectors such as finance, transportation and commerce. Let's turn bugs into features. Challenges into opportunities.
 
 It will be interesting to check back on this view in the coming decades, and see how much of it materialised or (hopefully) how much of it _under_ sold the value of an energy system based on low-carbon. In the same way that those who tried to predict the value of the internet "early" were "way off" when it came to its utility.
 
