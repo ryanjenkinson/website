@@ -12,14 +12,14 @@ Note: This article is geared towards the GB energy system. Other energy systems 
 
 # The scale of the challenge ahead
 
-Our energy system needs to change. As we increasingly electrify our homes and industry, we will be placing our energy infrastructure under demand it hasn't previously seen before. Our energy system is based on an old premise: given the demand of consumers (households and businesses), ensure we have enough supply to cover that demand.
+Our energy system needs to change. As we increasingly electrify our homes and industry, we will be placing our energy infrastructure under demand it hasn't previously seen before. It still operates based on an old premise: when consumers (households and businesses) increase their energy demand, we increase supply to match it.
 
-This way of thinking made sense when we had lots of coal power plants. We could easily "dispatch" this generation (i.e - turn it on) to meet demands, usually a few hours ahead. Household demand was also fairly predictable: there was the slight uptick in the morning peak, and it dipped during the day while people were at work (on weekdays), before having another spike in the evening when everyone cooked dinner.
+This way of thinking made sense when we used lots of coal power plants. We could easily "dispatch" this generation (i.e - turn it on) to meet demands, usually a few hours ahead. Household demand was also fairly predictable: there was a slight uptick in the morning, which dipped during the day while people were at work (on weekdays), before peaking again in the evening when everyone cooked dinner.
 
-As we integrate more renewables into the generation mix, we have the unbelievable advantage of low-cost, green electrons. Undoubtably, increasing renewable generation and decarbonising our power system is an important pillar to reaching net zero. However, we introduce more _variability_. We need to be able to:
+As we integrate more renewables into the generation mix, we have the unbelievable advantage of low-cost, green electrons. Increasing renewable generation and decarbonising our power system is a critical pillar to reaching net zero, and credit to the GB energy system for rapidly integrating renewable generation into our grid. However, we introduce more _variability_ (e.g the amount of wind and sun changes throughout the day, and throughout the year). We need to be able to:
 
 * Better forecast the generation potential from wind and solar assets, and maximise the amount of time we can absorb these cheap, green electrons.
-* Have adequate to build storage for times where we have too much supply to ensure we can capture these renewable electrons for use later.
+* Have adequate storage for times where we have too much supply to ensure we can capture these renewable electrons for use later.
 
 With more households adopting low-carbon technologies (like solar, batteries, electric vehicles and electric heating systems) the old methodology would conclude there is a problem. We will increase our demand from households in a potentially unpredictable way. But what if these households (both with, and without, low carbon technologies) were actually part of the solution? Instead of changing supply to meet demand, we _change demand to meet supply_.
 
@@ -29,15 +29,15 @@ The Demand Flexibility Service (DFS) was a new service introduced by National Gr
 
 ## Putting consumers at the heart of the energy transition
 
-The DFS was so important because consumers were _rewarded_ for providing this change in energy. Instead of paying for expensive coal and gas to turn up, we can instead pay consumers to turn down. This mindset shift is so crucial towards our future energy system. While right now consumers are generally taking manual actions (for example: shifting the time they cook dinner to 1 hour later), in the future this _same principle will become more automated_. In response to signals from the grid, appliances in the home will charge intelligently, at the greenest times. And customers will be paid to say thank you.
+The DFS was so important because consumers were _rewarded_ for providing this change in energy. Instead of paying for expensive coal and gas to turn up, we can instead pay consumers to turn down. This mindset shift is key to enabling the  future energy system. While right now consumers are generally taking manual actions (for example: shifting the time they cook dinner to one hour later), in the future this _same principle will become more automated_. In response to signals from the grid, appliances in the home will charge intelligently, at the greenest times. And customers will be paid to say thank you.
 
-These payments might be small most of the time, only rising to large payments when the grid really needs it. But in the same way that consumers love yellow stickers in supermarkets - save pennies, but also reduce on wasted food - consumers can now save pennies to be actively involved in the maximisation of renewable energy onto our energy system.
+These payments might be small most of the time, only rising to large payments when the grid really needs it. But in the same way that consumers love yellow stickers in supermarkets - save pennies, but also reduce the amount of wasted food - consumers can now save pennies to be actively involved in the maximisation of renewable energy onto our energy system. In the words of a large supermarket chain: every little helps.
 
 # Why we need data
 
-Data drives decision making. Open data makes it possible for everyone to look at the same records, and build tools geared towards specific use cases. Open grid data can ensure:
+Data drives better decision making. Open data makes it possible for everyone to look at the same records, and build tools geared towards specific use cases. Open grid data can ensure:
 
-* Better planning and streamlined processes for building out grid infrastructure
+* Efficient planning and streamlined processes for building out grid infrastructure
 * Sharing of learnings while we iterate on new products, services and ideas
 * More informed policymaking
 
@@ -45,6 +45,6 @@ If we modernise our grid physically, shouldn't we also modernise how the informa
 
 # Conclusion
 
-The Demand Flexibility Service has transformed how we think about, and engage, with energy. Consumers can now be active participants in the energy system, and by engaging with it they can maximise the renewables we use on our grid, and reduce system costs for everyone. It's also a more fundamental mindset shift: we have proven that consumers, and industry, embrace the concept of _shifting demand to meet supply_ and operating the grid more intelligently.
+The Demand Flexibility Service has transformed how we think about and engage with energy. Consumers can now be active participants in the energy system, and by interacting with it they can maximise the renewables we use on our grid, and reduce system costs for everyone. It's also a more fundamental mindset shift: we have proven that consumers, and industry, embrace the concept of _shifting demand to meet supply_ - thereby helping us to operate the grid more intelligently.
 
-This marks the first step into a more intelligent energy system. And I'm pretty excited for the opportunities this creates.
+This marks the first step towards a more intelligent energy system. And I'm pretty excited for the opportunities this creates.
