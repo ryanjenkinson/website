@@ -41,7 +41,7 @@ Data drives better decision making. Open data makes it possible for everyone to 
 * Sharing of learnings while we iterate on new products, services and ideas
 * More informed policymaking
 
-If we modernise our grid physically, shouldn't we also modernise how the information flows digitally? In the same way Open Banking transformed finance, we can transform the grid into one that embraces renewables. Data portals, like the one built for the flexibility service, can be used to build dashboards. For example, I used the [ESO open data portal](https://data.nationalgrideso.com/dfs) to build [an application to visualise the impact of the Demand Flexibility Service](https://ryanjenkinson-consumerflex-dfs.streamlit.app).
+If we modernise our grid physically, shouldn't we also modernise how the information flows digitally? In the same way Open Banking transformed finance, we can transform the grid into one that embraces renewables and operates more effectively. Data portals, like the one built for the flexibility service, can be used to build dashboards. For example, I used the [ESO open data portal](https://data.nationalgrideso.com/dfs) to build [an application to visualise the impact of the Demand Flexibility Service (DFS)](https://ryanjenkinson-consumerflex-dfs.streamlit.app). Using this, we can learn how the DFS is going so far, and dig into the specifics from particular events. This could inform how we design future services that put consumers at the heart of the energy system.
 
 # Conclusion
 
