@@ -167,6 +167,7 @@ Notable Talks & Events
 
 * [Nov 2021] COP26 Fringe Event: agent based approaches for reducing emissions
 * [Oct 2022] [DataFest](https://datafest.global/datafest-fringe-2022/) Fringe Event: using open source data to support decarbonisation (in collaboration with NESTA)
+* [Mar 2022] Energy Institute Young Energy Professionals - Flexibility and Demand Side Response: How demand side response is enabling a cleaner, cheaper, and smarter energy system
 
 <!-- Achievements
 ------------ -->
