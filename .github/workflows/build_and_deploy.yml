@@ -10,14 +10,14 @@ jobs:
     name: Build static artifacts using Hugo
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 50
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.108.0'
+          hugo-version: '0.119.0'
       - name: Build
         run: hugo --gc --minify
       - name: Upload public directory
@@ -37,7 +37,7 @@ jobs:
           name: public
           path: public/
       - name: Publish
-        uses: nwtgck/actions-netlify@v1.2
+        uses: nwtgck/actions-netlify@v2.1
         with:
           publish-dir: './public'
           production-branch: main
