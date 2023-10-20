@@ -77,6 +77,8 @@ A founding early hire to a new mission-driven autonomous research unit of Octopu
 
 * Research featuring in high profile trades and newspapers (e.g Telegraph, Carbon Brief), as well as presentations to panels and conferences including COP26.
 
+* Stakeholder management with Grids (TSO, DSOs), policymakers (Energy Departments, Regulators) globally - representing the organisation at high level meetings and events as well as responsible for £million innovation funding.
+
 * Hiring in key strategic positions, and responsible for broader data strategy and technology decisions.
 
 **Lead Data Scientist**, [Optimise Prime](https://www.optimise-prime.com), Hitachi Social Innovation
