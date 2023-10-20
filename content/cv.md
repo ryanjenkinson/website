@@ -57,6 +57,7 @@ Relevant Experience
 <br />
 {{< /rawhtml >}}
 _(August 2023 - Present)_
+
 Working on putting consumers at the heart of the future energy system, by automating and optimising domestic low carbon technologies globally (solar + home batteries, heat pumps, electric vehicles) to help balance the grid while maintaining household preferences.
 
 
