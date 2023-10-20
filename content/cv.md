@@ -52,24 +52,24 @@ Leadership
 Relevant Experience
 ----------
 
-**Head of Technology and Data Science**, [Octopus Energy](https://octopus.energy) [Centre for Net Zero](https://centrefornetzero.org)
+**Head of Data and Chief of Staffe**, [Octopus Energy](https://octopus.energy) [Centre for Net Zero](https://centrefornetzero.org)
 {{< rawhtml >}}
 <br />
 {{< /rawhtml >}}
-_(June 2021 - Present)_
+_(June 2021 - August 2023)_
 
 A founding early hire to a new mission-driven autonomous research unit of Octopus Energy, with roles and responsibilities growing as the startup evolved:
 
 * Built a high-quality ELT modern data stack platform and automation workflows using `dbt`, GCP and infrastructure-as-code methodologies for a small data team, with 100GBs of data from a variety of public and private data sources.
 
 * Led and delivered multiple research projects increasing our understanding of how consumers could adopt and use low carbon technologies at scale in the future, managing research data scientists and analysts. High impact projects include:
-  * Pioneering analysis into unlocking domestic flexibility ([Big Dirty Turn Down](https://octopus.energy/blog/the-big-dirty-reveal/), [Crowdflex](https://www.nationalgrideso.com/future-energy/virtual-energy-system/crowdflex))
+  * Pioneering analysis into unlocking domestic flexibility ([Big Dirty Turn Down](https://octopus.energy/blog/the-big-dirty-reveal/), [Crowdflex](https://www.nationalgrideso.com/future-energy/virtual-energy-system/crowdflex)) and led the research and experimentation into domestic intelligent demand (domestic demand side response) programme ([Octopus Energy Saving Sessions](https://octopus.energy/blog/octopus-energy-saving-sessions/))
   * Scalable generative ML model for domestic smart meter data ([Faraday](https://medium.com/the-centre-for-net-zero-tech-blog/introducing-faraday-our-smart-meter-load-profile-generating-tool-98bfbdce6a13))
   * [Report](https://www.centrefornetzero.org/res/hitting-the-target/) into heat pump adoption, with an [open-source](https://github.com/centrefornetzero/domestic-heating-abm) agent-based simulation
 
 * Research featuring in high profile trades and newspapers (e.g Telegraph, Carbon Brief), as well as presentations to panels and conferences including COP26.
 
-* Hiring in key strategic positions
+* Hiring in key strategic positions, and responsible for broader data strategy and technology decisions.
 
 **Lead Data Scientist**, [Optimise Prime](https://www.optimise-prime.com), Hitachi Social Innovation
 {{< rawhtml >}}
