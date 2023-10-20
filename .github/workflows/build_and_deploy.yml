@@ -37,7 +37,7 @@ jobs:
           name: public
           path: public/
       - name: Publish
-        uses: nwtgck/actions-netlify@v1.2
+        uses: nwtgck/actions-netlify@v2.1
         with:
           publish-dir: './public'
           production-branch: main
