@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "hi, i'm ryan 👋"
     subtitle: >
-      💻 i'm a technologist focused on climate change [@centrefornetzero](https://centrefornetzero.org) [@octopusenergy](https://octopus.energy) 🐙
+      💻 i'm a technologist focused on climate change [@krakenflex](https://www.krakenflex.com) [@octopusenergy](https://octopus.energy) 🐙
       🎓 **specialisms**: *data science*, *ml/ai*, *data engineering*, *strategy*, *tech leadership* and *energy sector electrification* ⚡
     
     imageUrl: "headshot.jpeg"
@@ -77,7 +77,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi, I'm Ryan 👋"
-    Content: "💻 I'm a technologist focused on climate change [@centrefornetzero](https://centrefornetzero.org) [@octopusenergy](https://octopus.energy) 🐙"
+    Content: "💻 I'm a technologist focused on climate change [@krakenflex](https://www.krakenflex.com) [@octopusenergy](https://octopus.energy) 🐙"
 
   socialIcons:
     - name: twitter

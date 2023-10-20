@@ -52,6 +52,14 @@ Leadership
 Relevant Experience
 ----------
 
+**Senior Data Scientiste**, [Octopus Energy](https://octopus.energy) [KrakenFlex](https://www.krakenflex.com)
+{{< rawhtml >}}
+<br />
+{{< /rawhtml >}}
+_(August 2023 - Present)_
+Working on putting consumers at the heart of the future energy system, by automating and optimising domestic low carbon technologies globally (solar + home batteries, heat pumps, electric vehicles) to help balance the grid while maintaining household preferences.
+
+
 **Head of Data and Chief of Staffe**, [Octopus Energy](https://octopus.energy) [Centre for Net Zero](https://centrefornetzero.org)
 {{< rawhtml >}}
 <br />
