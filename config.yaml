@@ -61,8 +61,8 @@ params:
     enabled: true # needs to be explicitly set
     title: "hi, i'm ryan 👋"
     subtitle: >
-      💻 i'm a technologist focused on climate change [@krakenflex](https://www.krakenflex.com) [@octopusenergy](https://octopus.energy) 🐙
-      🎓 **specialisms**: *data science*, *ml/ai*, *data engineering*, *strategy*, *tech leadership* and *energy sector electrification* ⚡
+      💻 i'm a technologist focused on climate change [@krakenflex](https://www.krakenflex.com) [@octopusenergy](https://octopus.energy) 🐙 
+      **specialisms**: *data science*, *ml/ai*, *data engineering*, *strategy*, *tech leadership* and *energy sector electrification* ⚡
     
     imageUrl: "headshot.jpeg"
     imageWidth: 240
