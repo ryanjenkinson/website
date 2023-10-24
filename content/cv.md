@@ -52,7 +52,7 @@ Leadership
 Relevant Experience
 ----------
 
-**Senior Data Scientiste**, [Octopus Energy](https://octopus.energy) [KrakenFlex](https://www.krakenflex.com)
+**Senior Data Scientist**, [Octopus Energy](https://octopus.energy) [KrakenFlex](https://www.krakenflex.com)
 {{< rawhtml >}}
 <br />
 {{< /rawhtml >}}
