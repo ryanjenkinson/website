@@ -33,35 +33,38 @@ Core Competencies
 Technical
 :   I have a broad full-stack knowledge of backend systems, using Python, SQL and cloud technologies.
 
-    * Modelling of energy systems, with a focus on electrification
-    * Data platforms, algorithm and model development (machine learning and artificial intelligence)
+    * Data platforms, algorithm development and modelling pipelines (machine learning and artificial intelligence)
     * Data science and analysis
     * Software development for cloud
+    * Modelling of energy systems, with a focus on electrification
 
 Leadership
 :   I am passionate about leading high-performing impact-driven teams in a hands-on way.
 
     * Building and supporting world-class organisations with strong cultures
-    * Driving transparent, inclusive and comprehensive decision making
-    * Formulating wider strategies that maximise value with a focus on 6 and 12 month horizons
     * Delivering high-impact products and analyses in an incremental and continuous way
-    * Mentoring small teams, upskilling technical knowledge
+    * Formulating wider strategies rooted in technology and first-principles thinking that maximise value
+    * Driving transparent, inclusive and comprehensive decision making
+    * Mentoring small mission-driven teams, upskilling technical knowledge
 
 <!-- TODO: Make a lot easier to read and digest -->
 
 Relevant Experience
 ----------
 
-**Senior Data Scientist**, [Octopus Energy](https://octopus.energy) [KrakenFlex](https://www.krakenflex.com)
+**Senior Data Scientist**, [Kraken](https://www.kraken.tech) ([Octopus Energy Group](https://octopusenergy.group))
 {{< rawhtml >}}
 <br />
 {{< /rawhtml >}}
 _(August 2023 - Present)_
 
-Working on putting consumers at the heart of the future energy system, by automating and optimising domestic low carbon technologies globally (solar + home batteries, heat pumps, electric vehicles) to help balance the grid while maintaining household preferences.
+Working on putting consumers at the heart of the energy system, by automating and optimising domestic low carbon technologies globally (solar + home batteries, heat pumps, electric vehicles, smart thermostats etc) to help balance the grid while maintaining household preferences.
 
+* Responsible for maintaining and improving production code that optimises 100,000s of assets globally each day
+* Leading cross-organisational data science best practices, including MLOps pipelines
+* Working closely with external partners and grid operators in multiple countries to deliver and showcase the value of automation and optimisation in the grid
 
-**Head of Data and Chief of Staff**, [Octopus Energy](https://octopus.energy) [Centre for Net Zero](https://centrefornetzero.org)
+**Head of Data and Chief of Staff**, [Centre for Net Zero](https://centrefornetzero.org) ([Octopus Energy](https://octopus.energy) Group)
 {{< rawhtml >}}
 <br />
 {{< /rawhtml >}}
@@ -71,14 +74,11 @@ A founding early hire to a new mission-driven autonomous research unit of Octopu
 
 * Built a high-quality ELT modern data stack platform and automation workflows using `dbt`, GCP and infrastructure-as-code methodologies for a small data team, with 100GBs of data from a variety of public and private data sources.
 
-* Led and delivered multiple research projects increasing our understanding of how consumers could adopt and use low carbon technologies at scale in the future, managing research data scientists and analysts. High impact projects include:
-  * Pioneering analysis into unlocking domestic flexibility ([Big Dirty Turn Down](https://octopus.energy/blog/the-big-dirty-reveal/), [Crowdflex](https://www.nationalgrideso.com/future-energy/virtual-energy-system/crowdflex)) and led the research and experimentation into domestic intelligent demand (demand side response) programme ([Octopus Energy Saving Sessions](https://octopus.energy/blog/octopus-energy-saving-sessions/))
-  * Scalable generative ML model for domestic smart meter data ([Faraday](https://medium.com/the-centre-for-net-zero-tech-blog/introducing-faraday-our-smart-meter-load-profile-generating-tool-98bfbdce6a13))
-  * [Report](https://www.centrefornetzero.org/res/hitting-the-target/) into heat pump adoption, with an [open-source](https://github.com/centrefornetzero/domestic-heating-abm) agent-based simulation
+* Led and delivered multiple research projects increasing our understanding of how consumers could adopt and use low carbon technologies at scale in the future, managing and mentoring the data team. High impact projects include "world first" large-scale experimentation into domestic intelligent demand (demand side response) and creating a scalable generative AI model that generates realistic smart meter data, partnering with the Linux Foundation Energy.
 
 * Research featuring in high profile trades and newspapers (e.g Telegraph, Carbon Brief), as well as presentations to panels and conferences including COP26.
 
-* Stakeholder management with Grids (TSO, DSOs), policymakers (Energy Departments, Regulators) globally - representing the organisation at high level meetings and events as well as responsible for £million innovation funding.
+* Stakeholder management with Grids (TSO, DSOs) and influencing policymakers (Energy Departments, Regulators) globally - representing the organisation at high level meetings and events as well as responsible for £million innovation funding.
 
 * Hiring in key strategic positions, and responsible for broader data strategy and technology decisions.
 
