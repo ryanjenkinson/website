@@ -6,7 +6,7 @@ _Note: I only work in technology, data science and software development roles in
 ----
 
 > An experienced data professional capable of leading high performing, mission-driven teams across the tech value stack.
-I have over 5 years of industry experience applying data science and engineering, AI & ML, technical leadership and strategy for organisations of all sizes. I am hands on, capable of taking things from zero-to-one, delivering major projects in a principled way and mentoring others. My focus is on tackling climate change. A continual learner who is highly articulate with the confidence and experience to communicate and influence effectively at all levels. I build strong productionised software and craft data-driven narratives. Experienced at giving talks and contributing to discussions on climate and tech, e.g at COP26.
+I have over 6 years of industry experience applying data science and engineering, AI & ML, technical leadership and strategy for organisations of all sizes. I am hands on, capable of taking things from zero-to-one, delivering major projects in a principled way and mentoring others. My focus is on tackling climate change. A continual learner who is highly articulate with the confidence and experience to communicate and influence effectively at all levels. I build strong productionised software and craft data-driven narratives. Experienced at giving talks and contributing to discussions on climate and tech, e.g at COP26.
 
 ----
 
@@ -72,13 +72,13 @@ _(June 2021 - August 2023)_
 
 A founding early hire to a new mission-driven autonomous research unit of Octopus Energy, with roles and responsibilities growing as the startup evolved:
 
-* Built a high-quality ELT modern data stack platform and automation workflows using `dbt`, GCP and infrastructure-as-code methodologies for a small data team, with 100GBs of data from a variety of public and private data sources.
+* Built a modern data stack platform and automation workflows using `dbt`, GCP and infrastructure-as-code methodologies for a small data team, with 100GBs of data from a variety of public and private data sources.
 
-* Led and delivered multiple high-impact research projects increasing our understanding of how consumers could adopt and use low carbon technologies, managing and mentoring the data team. Examples include "world first" large-scale rigorous experimentation into domestic intelligent demand (demand side response) and creating a scalable generative AI model that generates realistic smart meter data, partnering with the Linux Foundation Energy.
+* Led and delivered multiple high-impact research projects increasing our understanding of how consumers could adopt and use low carbon technologies, managing the data team. Examples include "world first" large-scale rigorous experimentation into domestic intelligent demand (demand side response) and creating a scalable generative AI model that generates realistic smart meter data, partnering with the Linux Foundation Energy.
 
-* Research published in key journals and analysis featured in high profile influential trades and newspapers. Presentations to panels and conferences including COP26.
+* Research published in key journals and analysis featured in high profile influential trades, newspapers and conferences (e.g COP26).
 
-* Stakeholder management with Grids (TSO, DSOs) and influencing policymakers (Energy Departments, Regulators) globally - representing the organisation at high level meetings and events as well as responsible for £million innovation funding.
+* Stakeholder management with Grids (TSO, DSOs) and influencing policymakers (Energy Departments, Regulators) globally - representing the organisation externally and responsible for £million innovation funding.
 
 * Hiring in key strategic positions, and responsible for broader data strategy and technology decisions.
 
