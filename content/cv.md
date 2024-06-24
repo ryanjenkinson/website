@@ -64,7 +64,7 @@ Working on putting consumers at the heart of the energy system, by automating an
 * Leading cross-organisational data science best practices, including MLOps pipelines
 * Working closely with external partners and grid operators in multiple countries to deliver and showcase the value of automation and optimisation in the grid
 
-**Head of Data and Chief of Staff**, [Centre for Net Zero](https://centrefornetzero.org) ([Octopus Energy](https://octopus.energy) Group)
+**Head of Data and Chief of Staff**, [Centre for Net Zero](https://centrefornetzero.org) ([Octopus Energy Group](https://octopusenergy.group))
 {{< rawhtml >}}
 <br />
 {{< /rawhtml >}}
