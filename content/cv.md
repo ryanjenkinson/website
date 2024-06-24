@@ -74,9 +74,9 @@ A founding early hire to a new mission-driven autonomous research unit of Octopu
 
 * Built a high-quality ELT modern data stack platform and automation workflows using `dbt`, GCP and infrastructure-as-code methodologies for a small data team, with 100GBs of data from a variety of public and private data sources.
 
-* Led and delivered multiple research projects increasing our understanding of how consumers could adopt and use low carbon technologies at scale in the future, managing and mentoring the data team. High impact projects include "world first" large-scale experimentation into domestic intelligent demand (demand side response) and creating a scalable generative AI model that generates realistic smart meter data, partnering with the Linux Foundation Energy.
+* Led and delivered multiple high-impact research projects increasing our understanding of how consumers could adopt and use low carbon technologies, managing and mentoring the data team. Examples include "world first" large-scale rigorous experimentation into domestic intelligent demand (demand side response) and creating a scalable generative AI model that generates realistic smart meter data, partnering with the Linux Foundation Energy.
 
-* Research featuring in high profile trades and newspapers (e.g Telegraph, Carbon Brief), as well as presentations to panels and conferences including COP26.
+* Research published in key journals and analysis featured in high profile influential trades and newspapers. Presentations to panels and conferences including COP26.
 
 * Stakeholder management with Grids (TSO, DSOs) and influencing policymakers (Energy Departments, Regulators) globally - representing the organisation at high level meetings and events as well as responsible for £million innovation funding.
 
@@ -94,7 +94,7 @@ I led a team of 6 people (inc. contractors) on worlds largest commercial EV tria
   * Built a powerful ML prediction model to recommend optimal chargepoint location in London for EV drivers, with quarterly updates to Uber and a talk delivered at Big Data LDN 2020. Resulted in the strategic placement of highly utilised on-shift chargepoints, greater driver confidence in EVs and Uber Green.
   * Analysed behavioural patterns of different commercial fleets, recommending optimal practices and vehicles to deploy as they transition to electric.
   * Delivered over £2m/yr in operational savings for Royal Mail across 10 depots through provisioning of smart charging systems and forecasting models to respond to flexibility events, ensuring risk and cost minimsation.
-* Deployed cloud based web app (Azure, Django) for UKPN using modern web frameworks, REST APIs & software principles to reduce time for depot managers to purchase electric vehicles and secure grid connections with their DNO. This reduced potential network reinforcement and grid connection costs to the tune of £millions/year.
+* Deployed modern cloud based web app for a GB distribution network operator that reduces time for depot managers to purchase electric vehicles and secure grid connections with their DNO. This reduced potential network reinforcement and grid connection costs to the tune of £millions/year.
 * Mentored 2 Data Scientists. Interviewed candidates for Data Science positions.
 
 **Various AI / ML Research and Consultancy Roles**
