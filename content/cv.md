@@ -6,7 +6,7 @@ _Note: I only work in technology, data science and software development roles in
 ----
 
 > An experienced data professional capable of leading high performing, mission-driven teams across the tech value stack.
-I have over 6 years of industry experience applying data science and engineering, AI & ML, technical leadership and strategy for organisations of all sizes. I am hands on, capable of taking things from zero-to-one, delivering major projects in a principled way and mentoring others. My focus is on tackling climate change. A continual learner who is highly articulate with the confidence and experience to communicate and influence effectively at all levels. I build strong productionised software and craft data-driven narratives. Experienced at giving talks and contributing to discussions on climate and tech, e.g at COP26.
+I have over 6 years of industry experience applying data science and engineering, AI & ML, technical leadership and strategy for organisations of all sizes. I am hands on: capable of taking products from zero-to-one, delivering major features in global markets whilst mentoring and inspiring others. My focus is on tackling climate change. A continual learner who is highly articulate with the confidence and experience to communicate and influence effectively at all levels up to CEO. I build strong productionised software and craft data-driven narratives. Delivered multiple global firsts in our changing energy system. Experienced at giving talks and contributing to discussions on climate and tech, e.g at COP26.
 
 ----
 
@@ -45,7 +45,7 @@ Leadership
     * Delivering high-impact products and analyses in an incremental and continuous way
     * Formulating wider strategies rooted in technology and first-principles thinking that maximise value
     * Driving transparent, inclusive and comprehensive decision making
-    * Mentoring small mission-driven teams, upskilling technical knowledge
+    * Mentoring mission-driven teams, upskilling technical and domain knowledge
 
 <!-- TODO: Make a lot easier to read and digest -->
 
@@ -60,9 +60,11 @@ _(August 2023 - Present)_
 
 Working on putting consumers at the heart of the energy system, by automating and optimising domestic low carbon technologies globally (solar + home batteries, heat pumps, electric vehicles, smart thermostats etc) to help balance the grid while maintaining household preferences.
 
+* Helped grow product from 10,000 to 100,000s of devices from one client/market to over 10 markets and dozens of clients
 * Responsible for maintaining and improving production code that optimises 100,000s of assets globally each day
-* Leading cross-organisational data science best practices, including MLOps pipelines
-* Working closely with external partners and grid operators in multiple countries to deliver and showcase the value of automation and optimisation in the grid
+* Leading cross-organisational data science and AI best practices, including MLOps pipelines
+* Working closely with external partners and grid operators in multiple countries to deliver and showcase the value of automation and optimisation in the grid, achieving multiple global firsts at integrating domestic technologies into grids and building best in class VPP/trading software
+* Key speaker at events, representing Kraken's AI capabilities and showcasing technology
 
 **Head of Data and Chief of Staff**, [Centre for Net Zero](https://centrefornetzero.org) ([Octopus Energy Group](https://octopusenergy.group))
 {{< rawhtml >}}
